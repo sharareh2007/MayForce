@@ -5,4 +5,5 @@
     <color name="colorAccent">#EA4A52</color>
     <color name="silver">#EAEAEA</color>
     <color name="white">#FFF</color>
+    <color name="black">#000000</color>
 </resources>
